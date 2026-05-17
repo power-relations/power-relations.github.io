@@ -2,7 +2,7 @@
   "id": 0,
   "title": "power outages",
   "author": "geojson parser",
-  "duration": 59,
+  "duration": 51,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "11:25:00",
+      "data": "11:59:15",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,73 +216,31 @@
     },
     {
       "seq": 0,
-      "data": "STANISLA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 1,
-      "data": "TANISLAU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "ANISLAUS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 242",
+      "data": "TEHAMA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
-      "seq": 1,
-      "data": "AUSE UNK",
+      "seq": 0,
+      "data": "CAUSE   ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 800
     },
     {
-      "seq": 2,
-      "data": "USE UNKN",
+      "seq": 0,
+      "data": "STORM   ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
       "seq": 0,
@@ -314,7 +272,7 @@
     },
     {
       "seq": 0,
-      "data": "11:32:27",
+      "data": "12:01:45",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -335,35 +293,21 @@
     },
     {
       "seq": 0,
-      "data": "SAN JOAQ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "AN JOAQU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N JOAQUI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " JOAQUIN",
+      "data": "AN MATEO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 9  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -418,5 +362,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-17T11-49-02Z"
+  "created_at": "2026-05-17T12-20-01Z"
 }
