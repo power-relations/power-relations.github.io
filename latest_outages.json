@@ -2,7 +2,7 @@
   "id": 0,
   "title": "power outages",
   "author": "geojson parser",
-  "duration": 1263,
+  "duration": 2155,
   "lines": [
     {
       "seq": 0,
@@ -643,21 +643,42 @@
     },
     {
       "seq": 0,
-      "data": "PATROLLI",
+      "data": "EMERG RE",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "ATROLLIN",
+      "data": "MERG REP",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "TROLLING",
+      "data": "ERG REPA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "RG REPAI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "G REPAIR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " REPAIRS",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -1092,111 +1113,6 @@
     {
       "seq": 7,
       "data": "WIRE DWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 0,
-      "data": "--------",
-      "fade": 255,
-      "transition": 1,
-      "duration": 2000
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "26-05-17",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "04:47:14",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "HUMBOLDT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 37 ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 800
-    },
-    {
-      "seq": 0,
-      "data": "TREE CON",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 1,
-      "data": "REE CONT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "EE CONTA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "E CONTAC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": " CONTACT",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -3919,111 +3835,6 @@
     },
     {
       "seq": 0,
-      "data": "15:03:09",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "COLUSA  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 3  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE UN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 1,
-      "data": "AUSE UNK",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 0,
-      "data": "--------",
-      "fade": 255,
-      "transition": 1,
-      "duration": 2000
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "26-05-17",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
       "data": "13:08:00",
       "fade": 255,
       "transition": 1,
@@ -6145,83 +5956,6 @@
     },
     {
       "seq": 0,
-      "data": "15:37:11",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "GLENN   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 1  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 800
-    },
-    {
-      "seq": 0,
-      "data": "STORM   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "--------",
-      "fade": 255,
-      "transition": 1,
-      "duration": 2000
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "26-05-17",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
       "data": "15:37:24",
       "fade": 255,
       "transition": 1,
@@ -8210,10 +7944,45 @@
     },
     {
       "seq": 0,
-      "data": "STORM   ",
+      "data": "EMERG RE",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "MERG REP",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "ERG REPA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "RG REPAI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "G REPAIR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " REPAIRS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
@@ -8844,7 +8613,6482 @@
       "fade": 255,
       "transition": 1,
       "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:25:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:17:06",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:13:07",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "LAKE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 583",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "PATROLLI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "ATROLLIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "TROLLING",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:09:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "AMADOR  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT:1129",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:17:58",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 766",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:09:02",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT:1878",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:16:13",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COLUSA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 545",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:58",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "MERCED  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 9  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 3  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SONOMA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:19:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 6  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 19 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:03",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "STANISLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "TANISLAU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "ANISLAUS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:04",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:14",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:26:43",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 94 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:50",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:20:59",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:21:18",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:21:31",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "18:22:47",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "18:21:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "18:22:12",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 4  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "18:22:14",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 4  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:28:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COLUSA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 304",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:23:15",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:25:08",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:26:20",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "FRESNO  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 56 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:27:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:27:35",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "19:59:53",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:28:11",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:28:26",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:24:10",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:29:24",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:29:42",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "BUTTE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:30:25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "YUBA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:30:45",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:31:21",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "MADERA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:31:38",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:31:52",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:08",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SHASTA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 16 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:23",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SHASTA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 14 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:26",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:33",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:39",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 570",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:37",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 651",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:32:47",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:33:14",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:33:25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:33:45",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SHASTA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:02:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT:1065",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:33:57",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 366",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:34:26",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SHASTA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 80 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-17",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "20:34:31",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "ALAMEDA ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
     }
   ],
-  "created_at": "2026-05-17T20-48-01Z"
+  "created_at": "2026-05-17T20-49-02Z"
 }
