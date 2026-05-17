@@ -1,4 +1,4 @@
 # power-relations.github.io
 
 
-[current outages json](current_outages.json)
+[latest outages json](latest_outages.json)
