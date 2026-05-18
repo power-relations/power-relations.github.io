@@ -2,7 +2,7 @@
   "id": 0,
   "title": "power outages",
   "author": "geojson parser",
-  "duration": 85,
+  "duration": 98,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "08:16:02",
+      "data": "08:30:59",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -272,7 +272,7 @@
     },
     {
       "seq": 0,
-      "data": "08:19:35",
+      "data": "08:31:11",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -293,87 +293,38 @@
     },
     {
       "seq": 0,
-      "data": "NEVADA  ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
     },
     {
-      "seq": 0,
-      "data": "OUT: 18 ",
+      "seq": 1,
+      "data": "ONTRA CO",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
     },
     {
-      "seq": 0,
-      "data": "CAUSE   ",
+      "seq": 2,
+      "data": "NTRA COS",
       "fade": 255,
       "transition": 1,
-      "duration": 800
+      "duration": 350
     },
     {
-      "seq": 0,
-      "data": "STORM   ",
+      "seq": 3,
+      "data": "TRA COST",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
     },
     {
-      "seq": 0,
-      "data": "--------",
+      "seq": 4,
+      "data": "RA COSTA",
       "fade": 255,
       "transition": 1,
-      "duration": 2000
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "26-05-18",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "08:22:21",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
-    },
-    {
-      "seq": 0,
-      "data": "ALAMEDA ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1000
+      "duration": 350
     },
     {
       "seq": 0,
@@ -454,7 +405,7 @@
     },
     {
       "seq": 0,
-      "data": "08:22:40",
+      "data": "08:34:13",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -475,28 +426,14 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CR",
+      "data": "NEVADA  ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 1,
-      "data": "ANTA CRU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTA CRUZ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
       "seq": 0,
-      "data": "OUT: 97 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -545,7 +482,161 @@
     },
     {
       "seq": 0,
-      "data": "08:27:34",
+      "data": "08:37:46",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COLUSA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-18",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "08:38:23",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NEVADA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-18",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "08:40:29",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -600,5 +691,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-18T08-49-02Z"
+  "created_at": "2026-05-18T09-02-02Z"
 }
