@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-19T08-19-02Z",
+  "title": "power outages 2026-05-19T08-50-02Z",
   "author": "geojson parser",
-  "duration": 58,
+  "duration": 55,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "07:53:54",
+      "data": "08:22:58",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,14 +216,35 @@
     },
     {
       "seq": 0,
-      "data": "SONOMA  ",
+      "data": "SAN JOAQ",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 2  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -300,7 +321,7 @@
     },
     {
       "seq": 0,
-      "data": "07:58:37",
+      "data": "08:23:47",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,35 +342,21 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "ONTRA CO",
+      "data": "ANTA CRU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTRA COS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
+      "data": "NTA CRUZ",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -363,45 +370,17 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 800
     },
     {
-      "seq": 1,
-      "data": "AUSE UNK",
+      "seq": 0,
+      "data": "STORM   ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
       "seq": 0,
@@ -411,5 +390,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-19T08-19-02Z"
+  "created_at": "2026-05-19T08-50-02Z"
 }
