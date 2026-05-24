@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-24T11-32-02Z",
+  "title": "power outages 2026-05-24T12-02-02Z",
   "author": "geojson parser",
-  "duration": 56,
+  "duration": 58,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "11:15:59",
+      "data": "11:46:10",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,14 +216,28 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SACRAMEN",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "ACRAMENT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "CRAMENTO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
-      "data": "OUT: 17 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -300,7 +314,7 @@
     },
     {
       "seq": 0,
-      "data": "11:23:36",
+      "data": "11:45:25",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,21 +335,21 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CR",
+      "data": "SACRAMEN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "ANTA CRU",
+      "data": "ACRAMENT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTA CRUZ",
+      "data": "CRAMENTO",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -397,5 +411,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-24T11-32-02Z"
+  "created_at": "2026-05-24T12-02-02Z"
 }
