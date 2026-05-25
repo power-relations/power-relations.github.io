@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-25T09-16-01Z",
+  "title": "power outages 2026-05-25T09-33-01Z",
   "author": "geojson parser",
-  "duration": 56,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "08:54:00",
+      "data": "09:08:00",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -244,7 +244,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 2  ",
+      "data": "OUT:2677",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,7 +321,7 @@
     },
     {
       "seq": 0,
-      "data": "07:24:00",
+      "data": "09:23:18",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -342,49 +342,56 @@
     },
     {
       "seq": 0,
-      "data": "NEVADA  ",
+      "data": "NAPA    ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "OUT: 4  ",
+      "data": "OUT: 82 ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 800
-    },
-    {
-      "seq": 0,
-      "data": "FOREIGN ",
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "OREIGN O",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "REIGN OB",
+      "data": "USE UNKN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "EIGN OBJ",
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -397,5 +404,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-25T09-16-01Z"
+  "created_at": "2026-05-25T09-33-01Z"
 }
