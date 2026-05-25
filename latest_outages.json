@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-25T04-19-01Z",
+  "title": "power outages 2026-05-25T04-36-01Z",
   "author": "geojson parser",
-  "duration": 54,
+  "duration": 74,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "03:55:54",
+      "data": "04:10:21",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,7 +216,7 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "FRESNO  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -300,7 +300,7 @@
     },
     {
       "seq": 0,
-      "data": "03:56:59",
+      "data": "04:14:26",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,14 +321,21 @@
     },
     {
       "seq": 0,
-      "data": "SOLANO  ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
-      "data": "OUT: 25 ",
+      "data": "OUT: 16 ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -381,7 +388,140 @@
       "fade": 255,
       "transition": 1,
       "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "04:12:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 80 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "BRKN UG ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "RKN UG E",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "KN UG EQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "N UG EQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": " UG EQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "UG EQUIP",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "G EQUIPM",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 7,
+      "data": " EQUIPMN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 8,
+      "data": "EQUIPMNT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
     }
   ],
-  "created_at": "2026-05-25T04-19-01Z"
+  "created_at": "2026-05-25T04-36-01Z"
 }
