@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-26T09-47-01Z",
+  "title": "power outages 2026-05-26T10-04-01Z",
   "author": "geojson parser",
-  "duration": 41,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "09:27:12",
+      "data": "09:46:02",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,24 +216,10 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CR",
+      "data": "FRESNO  ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 1,
-      "data": "ANTA CRU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTA CRUZ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
       "seq": 0,
@@ -290,7 +276,133 @@
       "fade": 255,
       "transition": 1,
       "duration": 2000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-05-26",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "09:52:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SAN JOAQ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 75 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": "--------",
+      "fade": 255,
+      "transition": 1,
+      "duration": 2000
     }
   ],
-  "created_at": "2026-05-26T09-47-01Z"
+  "created_at": "2026-05-26T10-04-01Z"
 }
