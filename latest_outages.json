@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-27T08-02-01Z",
+  "title": "power outages 2026-05-27T08-33-02Z",
   "author": "geojson parser",
-  "duration": 40,
+  "duration": 46,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "07:41:50",
+      "data": "08:09:24",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,14 +216,14 @@
     },
     {
       "seq": 0,
-      "data": "KINGS   ",
+      "data": "BUTTE   ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "OUT: 26 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -237,45 +237,87 @@
     },
     {
       "seq": 0,
-      "data": "EMERG RE",
+      "data": "STORM   ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
-      "seq": 1,
-      "data": "MERG REP",
+      "seq": 0,
+      "data": "--------",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 2000
     },
     {
-      "seq": 2,
-      "data": "ERG REPA",
+      "seq": 0,
+      "data": "DATE    ",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
-      "seq": 3,
-      "data": "RG REPAI",
+      "seq": 0,
+      "data": "26-05-27",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
-      "seq": 4,
-      "data": "G REPAIR",
+      "seq": 0,
+      "data": "TIME UTC",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
     },
     {
-      "seq": 5,
-      "data": " REPAIRS",
+      "seq": 0,
+      "data": "08:11:42",
       "fade": 255,
       "transition": 1,
-      "duration": 350
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "PLUMAS  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
     },
     {
       "seq": 0,
@@ -285,5 +327,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-27T08-02-01Z"
+  "created_at": "2026-05-27T08-33-02Z"
 }
