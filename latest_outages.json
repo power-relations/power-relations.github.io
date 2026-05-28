@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-05-28T07-32-01Z",
+  "title": "power outages 2026-05-28T07-48-01Z",
   "author": "geojson parser",
-  "duration": 54,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "07:14:54",
+      "data": "07:30:52",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,10 +216,31 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
@@ -300,7 +321,7 @@
     },
     {
       "seq": 0,
-      "data": "07:25:05",
+      "data": "07:38:24",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,14 +342,14 @@
     },
     {
       "seq": 0,
-      "data": "TEHAMA  ",
+      "data": "GLENN   ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 37 ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -383,5 +404,5 @@
       "duration": 2000
     }
   ],
-  "created_at": "2026-05-28T07-32-01Z"
+  "created_at": "2026-05-28T07-48-01Z"
 }
