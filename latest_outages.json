@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-04T07-17-02Z",
+  "title": "power outages 2026-06-04T07-36-02Z",
   "author": "geojson parser",
-  "duration": 43,
+  "duration": 53,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "06:58:37",
+      "data": "07:09:08",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,45 +216,115 @@
     },
     {
       "seq": 0,
-      "data": "SANTA BA",
+      "data": "ALAMEDA ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "ANTA BAR",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTA BARB",
+      "data": "USE UNKN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "TA BARBA",
+      "data": "SE UNKNO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "A BARBAR",
+      "data": "E UNKNOW",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " BARBARA",
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": ".       ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 437500
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-06-04",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "07:16:37",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "SOLANO  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
     },
     {
       "seq": 0,
@@ -306,5 +376,5 @@
       "duration": 350
     }
   ],
-  "created_at": "2026-06-04T07-17-02Z"
+  "created_at": "2026-06-04T07-36-02Z"
 }
