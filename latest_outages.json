@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-04T13-16-01Z",
+  "title": "power outages 2026-06-04T13-47-01Z",
   "author": "geojson parser",
-  "duration": 53,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "12:59:03",
+      "data": "13:29:43",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -216,56 +216,70 @@
     },
     {
       "seq": 0,
-      "data": "MADERA  ",
+      "data": "MONTEREY",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 70 ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 800
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 350
@@ -275,7 +289,7 @@
       "data": ".       ",
       "fade": 255,
       "transition": 1,
-      "duration": 14500
+      "duration": 214150
     },
     {
       "seq": 0,
@@ -300,7 +314,7 @@
     },
     {
       "seq": 0,
-      "data": "12:59:29",
+      "data": "13:33:29",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -321,10 +335,24 @@
     },
     {
       "seq": 0,
-      "data": "TUOLUMNE",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1000
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
     },
     {
       "seq": 0,
@@ -376,5 +404,5 @@
       "duration": 350
     }
   ],
-  "created_at": "2026-06-04T13-16-01Z"
+  "created_at": "2026-06-04T13-47-01Z"
 }
