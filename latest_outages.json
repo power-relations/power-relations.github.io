@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-06T10-35-02Z",
+  "title": "power outages 2026-06-06T10-47-02Z",
   "author": "geojson parser",
-  "duration": 42,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,112 @@
     },
     {
       "seq": 0,
-      "data": "10:15:22",
+      "data": "10:22:48",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "FRESNO  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 0,
+      "data": ".       ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 465500
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "26-06-06",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1000
+    },
+    {
+      "seq": 0,
+      "data": "10:30:45",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -251,7 +356,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 2  ",
       "fade": 255,
       "transition": 1,
       "duration": 1000
@@ -299,5 +404,5 @@
       "duration": 350
     }
   ],
-  "created_at": "2026-06-06T10-35-02Z"
+  "created_at": "2026-06-06T10-47-02Z"
 }
