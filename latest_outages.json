@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-07T11-17-01Z",
+  "title": "power outages 2026-06-07T11-47-01Z",
   "author": "geojson parser",
-  "duration": 52,
+  "duration": 57,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "10:51:00",
+      "data": "07:36:39",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -216,14 +216,35 @@
     },
     {
       "seq": 0,
-      "data": "COLUSA  ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 750",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -269,6 +290,13 @@
       "fade": 255,
       "transition": 1,
       "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -293,7 +321,7 @@
     },
     {
       "seq": 0,
-      "data": "10:51:00",
+      "data": "11:23:23",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -314,14 +342,14 @@
     },
     {
       "seq": 0,
-      "data": "COLUSA  ",
+      "data": "MADERA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 552",
+      "data": "OUT: 24 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -367,7 +395,14 @@
       "fade": 255,
       "transition": 1,
       "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 100
     }
   ],
-  "created_at": "2026-06-07T11-17-01Z"
+  "created_at": "2026-06-07T11-47-01Z"
 }
