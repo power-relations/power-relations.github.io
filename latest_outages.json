@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-10T12-51-01Z",
+  "title": "power outages 2026-06-10T13-03-01Z",
   "author": "geojson parser",
-  "duration": 56,
+  "duration": 59,
   "lines": [
     {
       "seq": 0,
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "12:26:15",
+      "data": "08:43:01",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -216,14 +216,35 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 15 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -272,13 +293,6 @@
     },
     {
       "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 489400
-    },
-    {
-      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -300,7 +314,7 @@
     },
     {
       "seq": 0,
-      "data": "12:34:38",
+      "data": "10:34:19",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -321,28 +335,35 @@
     },
     {
       "seq": 0,
-      "data": "SAN BENI",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN BENIT",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "N BENITO",
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 13 ",
+      "data": "OUT: 20 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -397,5 +418,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-10T12-51-01Z"
+  "created_at": "2026-06-10T13-03-01Z"
 }
