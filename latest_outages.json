@@ -1,6 +1,6 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-14T13-32-01Z",
+  "title": "power outages 2026-06-14T13-47-01Z",
   "author": "geojson parser",
   "duration": 72,
   "lines": [
@@ -195,7 +195,7 @@
     },
     {
       "seq": 0,
-      "data": "13:09:00",
+      "data": "13:31:49",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -216,14 +216,28 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 169",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -275,7 +289,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 286400
+      "duration": 123850
     },
     {
       "seq": 0,
@@ -300,7 +314,7 @@
     },
     {
       "seq": 0,
-      "data": "13:14:00",
+      "data": "13:34:07",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -321,7 +335,7 @@
     },
     {
       "seq": 0,
-      "data": "TULARE  ",
+      "data": "KERN    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -380,7 +394,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 392800
+      "duration": 9800
     },
     {
       "seq": 0,
@@ -405,7 +419,7 @@
     },
     {
       "seq": 0,
-      "data": "13:20:44",
+      "data": "13:34:28",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -426,35 +440,21 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CL",
+      "data": "MENDOCIN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ANTA CLA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTA CLAR",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TA CLARA",
+      "data": "ENDOCINO",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 4  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -509,5 +509,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-14T13-32-01Z"
+  "created_at": "2026-06-14T13-47-01Z"
 }
