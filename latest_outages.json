@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-21T09-46-02Z",
+  "title": "power outages 2026-06-21T10-05-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 49,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "09:32:35",
+      "data": "09:37:10",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,140 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 2  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 11450
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-06-21",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "09:37:33",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "SAN MATE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 196",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +233,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 127800
+      "duration": 82600
     },
     {
       "seq": 0,
@@ -132,7 +258,7 @@
     },
     {
       "seq": 0,
-      "data": "09:34:54",
+      "data": "09:39:07",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +279,21 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "EL DORAD",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 3  ",
+      "data": "OUT: 6  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +348,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-21T09-46-02Z"
+  "created_at": "2026-06-21T10-05-01Z"
 }
