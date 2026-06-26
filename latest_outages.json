@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-26T05-32-01Z",
+  "title": "power outages 2026-06-26T05-46-02Z",
   "author": "geojson parser",
-  "duration": 36,
+  "duration": 35,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:10:04",
+      "data": "05:17:56",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -76,7 +76,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 26 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -128,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 414900
+      "duration": 120900
     },
     {
       "seq": 0,
@@ -153,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "05:17:11",
+      "data": "05:20:09",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -174,31 +174,10 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CL",
+      "data": "PLACER  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ANTA CLA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTA CLAR",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TA CLARA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -209,42 +188,56 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -257,5 +250,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-26T05-32-01Z"
+  "created_at": "2026-06-26T05-46-02Z"
 }
