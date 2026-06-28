@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-28T22-34-01Z",
+  "title": "power outages 2026-06-28T22-48-01Z",
   "author": "geojson parser",
-  "duration": 45,
+  "duration": 51,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "22:07:12",
+      "data": "22:30:18",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,31 @@
     },
     {
       "seq": 0,
-      "data": "HUMBOLDT",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -107,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 294800
+      "duration": 89900
     },
     {
       "seq": 0,
@@ -132,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "22:12:18",
+      "data": "22:32:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +174,28 @@
     },
     {
       "seq": 0,
-      "data": "MERCED  ",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT:2352",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -212,7 +247,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 298800
+      "duration": 207250
     },
     {
       "seq": 0,
@@ -237,7 +272,7 @@
     },
     {
       "seq": 0,
-      "data": "22:17:28",
+      "data": "22:35:39",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -258,10 +293,17 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -320,5 +362,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-28T22-34-01Z"
+  "created_at": "2026-06-28T22-48-01Z"
 }
