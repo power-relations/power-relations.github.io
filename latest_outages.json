@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-06-29T06-33-01Z",
+  "title": "power outages 2026-06-29T07-32-02Z",
   "author": "geojson parser",
-  "duration": 29,
+  "duration": 30,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "06:05:00",
+      "data": "07:06:10",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,42 +48,56 @@
     },
     {
       "seq": 0,
-      "data": "MERCED  ",
+      "data": "FRESNO  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 17 ",
+      "data": "OUT: 54 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "THRD PAR",
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "HRD PART",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "RD PARTY",
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -93,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 238850
+      "duration": 398800
     },
     {
       "seq": 0,
@@ -118,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "06:09:09",
+      "data": "07:13:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -139,21 +153,14 @@
     },
     {
       "seq": 0,
-      "data": "SAN MATE",
+      "data": "MONTEREY",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN MATEO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 122",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -208,5 +215,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-06-29T06-33-01Z"
+  "created_at": "2026-06-29T07-32-02Z"
 }
