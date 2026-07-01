@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-01T07-20-01Z",
+  "title": "power outages 2026-07-01T07-31-02Z",
   "author": "geojson parser",
-  "duration": 18,
+  "duration": 21,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "06:57:32",
+      "data": "06:09:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,49 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SAN FRAN",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN FRANC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N FRANCI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " FRANCIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "FRANCISC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "RANCISCO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 192",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -69,67 +104,53 @@
     },
     {
       "seq": 0,
-      "data": "BRKN UG ",
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "RKN UG E",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "KN UG EQ",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "N UG EQU",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": " UG EQUI",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": "UG EQUIP",
+      "data": " SHUTDOW",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 6,
-      "data": "G EQUIPM",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 7,
-      "data": " EQUIPMN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 8,
-      "data": "EQUIPMNT",
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     }
   ],
-  "created_at": "2026-07-01T07-20-01Z"
+  "created_at": "2026-07-01T07-31-02Z"
 }
