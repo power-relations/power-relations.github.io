@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-02T12-17-02Z",
+  "title": "power outages 2026-07-02T12-33-01Z",
   "author": "geojson parser",
-  "duration": 44,
+  "duration": 47,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "11:57:57",
+      "data": "12:03:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,21 @@
     },
     {
       "seq": 0,
-      "data": "COLUSA  ",
+      "data": "EL DORAD",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 8  ",
+      "data": "OUT: 55 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -104,6 +111,13 @@
     },
     {
       "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 99600
+    },
+    {
+      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -125,7 +139,7 @@
     },
     {
       "seq": 0,
-      "data": "11:58:03",
+      "data": "12:04:51",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -205,7 +219,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 29600
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -230,7 +244,7 @@
     },
     {
       "seq": 0,
-      "data": "11:58:49",
+      "data": "12:16:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -251,14 +265,21 @@
     },
     {
       "seq": 0,
-      "data": "COLUSA  ",
+      "data": "EL DORAD",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 42 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -313,5 +334,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-02T12-17-02Z"
+  "created_at": "2026-07-02T12-33-01Z"
 }
