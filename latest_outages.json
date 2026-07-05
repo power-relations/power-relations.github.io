@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-05T00-01-02Z",
+  "title": "power outages 2026-07-05T00-16-02Z",
   "author": "geojson parser",
-  "duration": 48,
+  "duration": 64,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "23:39:55",
+      "data": "23:56:35",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,7 +48,7 @@
     },
     {
       "seq": 0,
-      "data": "HUMBOLDT",
+      "data": "KERN    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 52800
+      "duration": 359800
     },
     {
       "seq": 0,
@@ -118,7 +118,7 @@
     },
     {
       "seq": 0,
-      "data": "26-07-04",
+      "data": "26-07-05",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "23:40:59",
+      "data": "00:02:46",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,28 +153,35 @@
     },
     {
       "seq": 0,
-      "data": "SAN JOAQ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN JOAQU",
+      "data": "ONTRA CO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "N JOAQUI",
+      "data": "NTRA COS",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": " JOAQUIN",
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -233,7 +240,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 511900
+      "duration": 69550
     },
     {
       "seq": 0,
@@ -244,7 +251,7 @@
     },
     {
       "seq": 0,
-      "data": "26-07-04",
+      "data": "26-07-05",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -258,7 +265,7 @@
     },
     {
       "seq": 0,
-      "data": "23:49:43",
+      "data": "00:04:08",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -279,7 +286,7 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "YUBA    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -287,6 +294,111 @@
     {
       "seq": 0,
       "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 136800
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-07-05",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "00:06:36",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 19 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -341,5 +453,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-05T00-01-02Z"
+  "created_at": "2026-07-05T00-16-02Z"
 }
