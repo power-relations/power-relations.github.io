@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-06T04-20-02Z",
+  "title": "power outages 2026-07-06T04-32-01Z",
   "author": "geojson parser",
-  "duration": 37,
+  "duration": 38,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "04:00:52",
+      "data": "04:20:24",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -83,7 +83,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 4  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -132,6 +132,13 @@
     },
     {
       "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 152550
+    },
+    {
+      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -153,7 +160,7 @@
     },
     {
       "seq": 0,
-      "data": "04:01:02",
+      "data": "04:23:09",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -209,7 +216,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 6  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -264,5 +271,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-06T04-20-02Z"
+  "created_at": "2026-07-06T04-32-01Z"
 }
