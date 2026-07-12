@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-12T05-33-02Z",
+  "title": "power outages 2026-07-12T05-49-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 32,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:18:45",
+      "data": "05:26:30",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -55,7 +55,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT:2135",
+      "data": "OUT: 40 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 175800
+      "duration": 244800
     },
     {
       "seq": 0,
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "05:21:52",
+      "data": "05:30:46",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +153,28 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 2  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +229,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-12T05-33-02Z"
+  "created_at": "2026-07-12T05-49-01Z"
 }
