@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-16T05-32-01Z",
+  "title": "power outages 2026-07-16T05-46-02Z",
   "author": "geojson parser",
-  "duration": 22,
+  "duration": 14,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:21:19",
+      "data": "05:25:10",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -76,7 +76,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 90 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -90,66 +90,10 @@
     },
     {
       "seq": 0,
-      "data": "BRKN UG ",
+      "data": "STORM   ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "RKN UG E",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "KN UG EQ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "N UG EQU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": " UG EQUI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "UG EQUIP",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "G EQUIPM",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 7,
-      "data": " EQUIPMN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 8,
-      "data": "EQUIPMNT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -159,5 +103,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-16T05-32-01Z"
+  "created_at": "2026-07-16T05-46-02Z"
 }
