@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-19T02-18-02Z",
+  "title": "power outages 2026-07-19T02-31-02Z",
   "author": "geojson parser",
-  "duration": 62,
+  "duration": 56,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "01:58:03",
+      "data": "02:23:22",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "MERCED  ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 16 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -104,13 +132,6 @@
     },
     {
       "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 43800
-    },
-    {
-      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -132,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "01:58:58",
+      "data": "02:23:34",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -240,7 +261,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 64550
+      "duration": 39100
     },
     {
       "seq": 0,
@@ -265,7 +286,7 @@
     },
     {
       "seq": 0,
-      "data": "02:00:15",
+      "data": "02:24:26",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -286,14 +307,42 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 6  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -345,99 +394,8 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 354800
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-07-19",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "02:06:21",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "FRESNO  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 1  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PATROLLI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ATROLLIN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "TROLLING",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
       "duration": 100
     }
   ],
-  "created_at": "2026-07-19T02-18-02Z"
+  "created_at": "2026-07-19T02-31-02Z"
 }
