@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-19T08-47-02Z",
+  "title": "power outages 2026-07-19T09-19-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 33,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "08:28:51",
+      "data": "09:00:13",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,14 @@
     },
     {
       "seq": 0,
-      "data": "NAPA    ",
+      "data": "MADERA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 72 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 326800
+      "duration": 312800
     },
     {
       "seq": 0,
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "08:34:29",
+      "data": "09:05:37",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +153,35 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 6  ",
+      "data": "OUT: 13 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +236,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-19T08-47-02Z"
+  "created_at": "2026-07-19T09-19-01Z"
 }
