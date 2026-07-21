@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-21T20-52-02Z",
+  "title": "power outages 2026-07-21T21-01-02Z",
   "author": "geojson parser",
-  "duration": 80,
+  "duration": 98,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "20:26:35",
+      "data": "20:40:30",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -62,42 +62,56 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -107,7 +121,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 70800
+      "duration": 248450
     },
     {
       "seq": 0,
@@ -132,7 +146,7 @@
     },
     {
       "seq": 0,
-      "data": "20:27:57",
+      "data": "20:44:50",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +167,28 @@
     },
     {
       "seq": 0,
-      "data": "SAN MATE",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN MATEO",
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -219,7 +247,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 293600
+      "duration": 79900
     },
     {
       "seq": 0,
@@ -244,7 +272,7 @@
     },
     {
       "seq": 0,
-      "data": "20:33:02",
+      "data": "20:46:22",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -265,7 +293,7 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "SONOMA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -324,7 +352,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 174800
+      "duration": 112800
     },
     {
       "seq": 0,
@@ -349,7 +377,7 @@
     },
     {
       "seq": 0,
-      "data": "20:36:08",
+      "data": "20:48:26",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -370,35 +398,28 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ONTRA CO",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTRA COS",
+      "data": "NTA CLAR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -457,7 +478,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 126550
+      "duration": 263900
     },
     {
       "seq": 0,
@@ -482,7 +503,7 @@
     },
     {
       "seq": 0,
-      "data": "20:38:27",
+      "data": "20:53:02",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -503,7 +524,112 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "NEVADA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AUSE UNK",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 30800
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-07-21",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "20:53:44",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "YOLO    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -565,5 +691,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-21T20-52-02Z"
+  "created_at": "2026-07-21T21-01-02Z"
 }
