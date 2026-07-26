@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-07-26T05-01-02Z",
+  "title": "power outages 2026-07-26T05-17-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 28,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "04:43:44",
+      "data": "01:03:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -62,42 +62,28 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "THRD PAR",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "HRD PART",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
+      "data": "RD PARTY",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -107,7 +93,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 499800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +118,7 @@
     },
     {
       "seq": 0,
-      "data": "04:52:15",
+      "data": "05:00:54",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +139,14 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "PLACER  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 9  ",
+      "data": "OUT: 5  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +201,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-07-26T05-01-02Z"
+  "created_at": "2026-07-26T05-17-01Z"
 }
