@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-05T08-05-02Z",
+  "title": "power outages 2026-08-05T08-17-02Z",
   "author": "geojson parser",
-  "duration": 46,
+  "duration": 45,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "06:43:34",
+      "data": "08:01:59",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,17 @@
     },
     {
       "seq": 0,
-      "data": "SUTTER  ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -107,7 +114,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 600000
+      "duration": 109600
     },
     {
       "seq": 0,
@@ -132,7 +139,7 @@
     },
     {
       "seq": 0,
-      "data": "07:40:33",
+      "data": "08:04:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +160,14 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "HUMBOLDT",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 81 ",
+      "data": "OUT: 832",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -212,7 +219,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 600000
+      "duration": 192800
     },
     {
       "seq": 0,
@@ -237,7 +244,7 @@
     },
     {
       "seq": 0,
-      "data": "07:43:17",
+      "data": "08:07:24",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -258,66 +265,52 @@
     },
     {
       "seq": 0,
-      "data": "MENDOCIN",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ENDOCINO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 5  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE UN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AUSE UNK",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NTA CLAR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 7  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "STORM   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -327,5 +320,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-05T08-05-02Z"
+  "created_at": "2026-08-05T08-17-02Z"
 }
