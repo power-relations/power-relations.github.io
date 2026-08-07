@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-07T13-20-01Z",
+  "title": "power outages 2026-08-07T13-32-02Z",
   "author": "geojson parser",
-  "duration": 15,
+  "duration": 16,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "13:08:54",
+      "data": "13:19:37",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,21 @@
     },
     {
       "seq": 0,
-      "data": "BUTTE   ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 83 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -110,5 +117,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-07T13-20-01Z"
+  "created_at": "2026-08-07T13-32-02Z"
 }
