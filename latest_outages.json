@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-09T20-06-02Z",
+  "title": "power outages 2026-08-09T20-23-01Z",
   "author": "geojson parser",
-  "duration": 52,
+  "duration": 56,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "19:44:10",
+      "data": "18:05:21",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,24 @@
     },
     {
       "seq": 0,
-      "data": "MADERA  ",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -107,7 +121,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 366800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +146,7 @@
     },
     {
       "seq": 0,
-      "data": "19:50:28",
+      "data": "19:53:37",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -188,7 +202,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 27 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -240,7 +254,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 41550
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -265,7 +279,7 @@
     },
     {
       "seq": 0,
-      "data": "19:51:22",
+      "data": "20:02:49",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -286,35 +300,49 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CL",
+      "data": "SAN FRAN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ANTA CLA",
+      "data": "AN FRANC",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTA CLAR",
+      "data": "N FRANCI",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "TA CLARA",
+      "data": " FRANCIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "FRANCISC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "RANCISCO",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 25 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -369,5 +397,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-09T20-06-02Z"
+  "created_at": "2026-08-09T20-23-01Z"
 }
