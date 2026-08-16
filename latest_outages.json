@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-16T02-31-02Z",
+  "title": "power outages 2026-08-16T02-46-01Z",
   "author": "geojson parser",
-  "duration": 31,
+  "duration": 30,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "02:10:23",
+      "data": "02:25:54",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,14 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "MONTEREY",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 89 ",
+      "data": "OUT: 22 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 249800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "02:14:44",
+      "data": "02:38:08",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,17 +153,10 @@
     },
     {
       "seq": 0,
-      "data": "CALAVERA",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ALAVERAS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -222,5 +215,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-16T02-31-02Z"
+  "created_at": "2026-08-16T02-46-01Z"
 }
