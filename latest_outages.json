@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-20T07-06-02Z",
+  "title": "power outages 2026-08-20T07-31-02Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 34,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "06:44:22",
+      "data": "07:18:36",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 11 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +135,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 86800
+      "duration": 42550
     },
     {
       "seq": 0,
@@ -132,7 +160,7 @@
     },
     {
       "seq": 0,
-      "data": "06:46:00",
+      "data": "07:19:31",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +181,14 @@
     },
     {
       "seq": 0,
-      "data": "NEVADA  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 814",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +243,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-20T07-06-02Z"
+  "created_at": "2026-08-20T07-31-02Z"
 }
