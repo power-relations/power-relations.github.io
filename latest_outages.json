@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-20T10-16-02Z",
+  "title": "power outages 2026-08-20T11-01-02Z",
   "author": "geojson parser",
-  "duration": 15,
+  "duration": 17,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "10:02:00",
+      "data": "10:51:47",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,28 @@
     },
     {
       "seq": 0,
-      "data": "TEHAMA  ",
+      "data": "STANISLA",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "TANISLAU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "ANISLAUS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 135",
+      "data": "OUT: 10 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -110,5 +124,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-20T10-16-02Z"
+  "created_at": "2026-08-20T11-01-02Z"
 }
