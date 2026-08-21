@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-21T07-18-01Z",
+  "title": "power outages 2026-08-21T07-47-01Z",
   "author": "geojson parser",
-  "duration": 16,
+  "duration": 22,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "07:02:08",
+      "data": "07:33:09",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,35 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "SAN JOAQ",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 3  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -69,42 +90,63 @@
     },
     {
       "seq": 0,
-      "data": "EMERG RE",
+      "data": "BRKN UG ",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "MERG REP",
+      "data": "RKN UG E",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "ERG REPA",
+      "data": "KN UG EQ",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "RG REPAI",
+      "data": "N UG EQU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "G REPAIR",
+      "data": " UG EQUI",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " REPAIRS",
+      "data": "UG EQUIP",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "G EQUIPM",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 7,
+      "data": " EQUIPMN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 8,
+      "data": "EQUIPMNT",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -117,5 +159,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-21T07-18-01Z"
+  "created_at": "2026-08-21T07-47-01Z"
 }
