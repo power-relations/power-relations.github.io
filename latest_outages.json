@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-27T08-43-02Z",
+  "title": "power outages 2026-08-27T08-57-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 33,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "08:22:18",
+      "data": "08:38:40",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,35 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SAN JOAQ",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 195",
+      "data": "OUT: 52 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 383800
+      "duration": 18900
     },
     {
       "seq": 0,
@@ -132,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "08:28:53",
+      "data": "08:39:11",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -160,7 +181,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 15 ",
+      "data": "OUT: 3  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +236,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-27T08-43-02Z"
+  "created_at": "2026-08-27T08-57-01Z"
 }
