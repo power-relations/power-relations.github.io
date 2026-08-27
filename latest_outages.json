@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-27T14-16-02Z",
+  "title": "power outages 2026-08-27T14-29-01Z",
   "author": "geojson parser",
-  "duration": 48,
+  "duration": 62,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "13:49:00",
+      "data": "14:05:49",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,21 +48,28 @@
     },
     {
       "seq": 0,
-      "data": "SAN MATE",
+      "data": "SAN BENI",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN MATEO",
+      "data": "AN BENIT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N BENITO",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 46 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -114,7 +121,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 338600
+      "duration": 244250
     },
     {
       "seq": 0,
@@ -139,7 +146,7 @@
     },
     {
       "seq": 0,
-      "data": "13:54:50",
+      "data": "14:10:05",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -160,7 +167,7 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "TULARE  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -219,7 +226,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 179800
+      "duration": 16800
     },
     {
       "seq": 0,
@@ -244,7 +251,7 @@
     },
     {
       "seq": 0,
-      "data": "13:58:01",
+      "data": "14:10:33",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -265,28 +272,119 @@
     },
     {
       "seq": 0,
-      "data": "STANISLA",
+      "data": "NAPA    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "TANISLAU",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "ANISLAUS",
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 6  ",
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 263800
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-08-27",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "14:15:08",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "FRESNO  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -341,5 +439,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-27T14-16-02Z"
+  "created_at": "2026-08-27T14-29-01Z"
 }
