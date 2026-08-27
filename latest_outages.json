@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-27T07-27-02Z",
+  "title": "power outages 2026-08-27T07-42-01Z",
   "author": "geojson parser",
-  "duration": 15,
+  "duration": 20,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "07:16:50",
+      "data": "07:22:13",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,49 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SAN FRAN",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN FRANC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N FRANCI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " FRANCIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "FRANCISC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "RANCISCO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 501",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -110,5 +145,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-27T07-27-02Z"
+  "created_at": "2026-08-27T07-42-01Z"
 }
