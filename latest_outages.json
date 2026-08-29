@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-08-29T16-32-01Z",
+  "title": "power outages 2026-08-29T16-44-02Z",
   "author": "geojson parser",
-  "duration": 240,
+  "duration": 121,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "16:00:00",
+      "data": "16:14:59",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,24 @@
     },
     {
       "seq": 0,
-      "data": "NAPA    ",
+      "data": "SANTA CR",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CRU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CRUZ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -139,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "16:01:22",
+      "data": "16:17:46",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -160,49 +174,35 @@
     },
     {
       "seq": 0,
-      "data": "SAN FRAN",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN FRANC",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "N FRANCI",
+      "data": "NTA CLAR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": " FRANCIS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "FRANCISC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "RANCISCO",
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 98 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -265,6 +265,13 @@
     },
     {
       "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 287450
+    },
+    {
+      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -286,7 +293,7 @@
     },
     {
       "seq": 0,
-      "data": "16:02:03",
+      "data": "16:20:11",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -307,7 +314,7 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -321,59 +328,52 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PLNND SH",
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "LNND SHU",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NND SHUT",
+      "data": "USE UNKN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "ND SHUTD",
+      "data": "SE UNKNO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "D SHUTDO",
+      "data": "E UNKNOW",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " SHUTDOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "SHUTDOWN",
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 136800
     },
     {
       "seq": 0,
@@ -398,7 +398,7 @@
     },
     {
       "seq": 0,
-      "data": "16:02:30",
+      "data": "16:22:39",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -419,7 +419,7 @@
     },
     {
       "seq": 0,
-      "data": "MADERA  ",
+      "data": "LAKE    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -492,7 +492,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 235200
+      "duration": 247450
     },
     {
       "seq": 0,
@@ -517,287 +517,7 @@
     },
     {
       "seq": 0,
-      "data": "16:04:43",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "SAN FRAN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN FRANC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N FRANCI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " FRANCIS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "FRANCISC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "RANCISCO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 23 ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PLNND SH",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "LNND SHU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NND SHUT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "ND SHUTD",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "D SHUTDO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " SHUTDOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "SHUTDOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 3850
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:05:00",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "SAN MATE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN MATEO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 3  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PLNND SH",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "LNND SHU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NND SHUT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "ND SHUTD",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "D SHUTDO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " SHUTDOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "SHUTDOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 87250
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:06:39",
+      "data": "16:26:58",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -877,7 +597,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 56800
+      "duration": 170800
     },
     {
       "seq": 0,
@@ -902,7 +622,7 @@
     },
     {
       "seq": 0,
-      "data": "16:07:47",
+      "data": "16:30:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -923,252 +643,14 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ONTRA CO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTRA COS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "BUTTE   ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AUSE UNK",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 550
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:08:00",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "MARIPOSA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 956",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE UN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AUSE UNK",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 71800
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:09:23",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "SONOMA  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 11 ",
+      "data": "OUT: 22 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -1231,13 +713,6 @@
     },
     {
       "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 88450
-    },
-    {
-      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -1259,7 +734,7 @@
     },
     {
       "seq": 0,
-      "data": "16:11:03",
+      "data": "16:30:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -1280,119 +755,35 @@
     },
     {
       "seq": 0,
-      "data": "SHASTA  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 1  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "EMERG RE",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "MERG REP",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "ERG REPA",
+      "data": "NTA CLAR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "RG REPAI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "G REPAIR",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " REPAIRS",
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:11:05",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "NAPA    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 4  ",
+      "data": "OUT: 56 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -1449,230 +840,6 @@
     {
       "seq": 6,
       "data": "SHUTDOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 34250
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:12:00",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PLUMAS  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 6  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "PLNND SH",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "LNND SHU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NND SHUT",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "ND SHUTD",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "D SHUTDO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " SHUTDOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "SHUTDOWN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 0,
-      "data": "        ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 356450
-    },
-    {
-      "seq": 0,
-      "data": "DATE    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "26-08-29",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "TIME UTC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "16:18:08",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "UTIL PGE",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "COUNTY  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "NAPA    ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "OUT: 1  ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "CAUSE UN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AUSE UNK",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -1685,5 +852,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-08-29T16-32-01Z"
+  "created_at": "2026-08-29T16-44-02Z"
 }
