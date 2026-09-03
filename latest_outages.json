@@ -1,6 +1,6 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-03T05-58-02Z",
+  "title": "power outages 2026-09-03T06-15-01Z",
   "author": "geojson parser",
   "duration": 31,
   "lines": [
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:37:50",
+      "data": "05:58:01",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,56 +48,63 @@
     },
     {
       "seq": 0,
-      "data": "MARIN   ",
+      "data": "SOLANO  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 24 ",
+      "data": "OUT: 40 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "EMERG RE",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "MERG REP",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "ERG REPA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "RG REPAI",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "G REPAIR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " REPAIRS",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -107,7 +114,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 92800
+      "duration": 172800
     },
     {
       "seq": 0,
@@ -132,7 +139,7 @@
     },
     {
       "seq": 0,
-      "data": "05:39:34",
+      "data": "06:01:05",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,21 +160,14 @@
     },
     {
       "seq": 0,
-      "data": "MENDOCIN",
+      "data": "MONTEREY",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ENDOCINO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 30 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -222,5 +222,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-03T05-58-02Z"
+  "created_at": "2026-09-03T06-15-01Z"
 }
