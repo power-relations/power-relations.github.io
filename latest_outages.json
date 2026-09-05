@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-05T11-57-02Z",
+  "title": "power outages 2026-09-05T12-14-02Z",
   "author": "geojson parser",
-  "duration": 36,
+  "duration": 33,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "11:36:55",
+      "data": "12:00:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,21 @@
     },
     {
       "seq": 0,
-      "data": "MERCED  ",
+      "data": "EL DORAD",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 218",
+      "data": "OUT: 450",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -69,77 +76,49 @@
     },
     {
       "seq": 0,
-      "data": "BRKN POL",
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "RKN POLE",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "KN POLE ",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "N POLE E",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": " POLE EQ",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": "POLE EQU",
+      "data": " SHUTDOW",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 6,
-      "data": "OLE EQUI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 7,
-      "data": "LE EQUIP",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 8,
-      "data": "E EQUIPM",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 9,
-      "data": " EQUIPMN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 10,
-      "data": "EQUIPMNT",
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -149,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 341050
+      "duration": 18250
     },
     {
       "seq": 0,
@@ -174,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "11:42:49",
+      "data": "12:00:30",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -195,14 +174,14 @@
     },
     {
       "seq": 0,
-      "data": "MERCED  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 49 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -257,5 +236,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-05T11-57-02Z"
+  "created_at": "2026-09-05T12-14-02Z"
 }
