@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-06T01-19-01Z",
+  "title": "power outages 2026-09-06T01-27-01Z",
   "author": "geojson parser",
-  "duration": 31,
+  "duration": 36,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "00:59:00",
+      "data": "01:10:33",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,21 +48,35 @@
     },
     {
       "seq": 0,
-      "data": "MENDOCIN",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ENDOCINO",
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 65 ",
+      "data": "OUT: 362",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -114,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 242600
+      "duration": 365900
     },
     {
       "seq": 0,
@@ -139,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "01:03:14",
+      "data": "01:16:51",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -160,10 +174,31 @@
     },
     {
       "seq": 0,
-      "data": "SONOMA  ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -222,5 +257,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-06T01-19-01Z"
+  "created_at": "2026-09-06T01-27-01Z"
 }
