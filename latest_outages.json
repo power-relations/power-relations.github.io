@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-06T03-15-01Z",
+  "title": "power outages 2026-09-06T03-30-01Z",
   "author": "geojson parser",
-  "duration": 34,
+  "duration": 36,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "02:57:48",
+      "data": "03:05:16",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,35 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "SAN JOAQ",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN JOAQU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N JOAQUI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " JOAQUIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 19 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +128,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 65800
+      "duration": 73900
     },
     {
       "seq": 0,
@@ -132,7 +153,7 @@
     },
     {
       "seq": 0,
-      "data": "02:59:05",
+      "data": "03:06:42",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,35 +174,28 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ONTRA CO",
+      "data": "ANTA CLA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTRA COS",
+      "data": "NTA CLAR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
+      "data": "TA CLARA",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -243,5 +257,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-06T03-15-01Z"
+  "created_at": "2026-09-06T03-30-01Z"
 }
