@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-08T14-27-01Z",
+  "title": "power outages 2026-09-08T14-47-01Z",
   "author": "geojson parser",
-  "duration": 63,
+  "duration": 86,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "14:09:19",
+      "data": "14:14:45",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,38 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -62,42 +90,56 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -107,7 +149,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 155800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +174,7 @@
     },
     {
       "seq": 0,
-      "data": "14:12:06",
+      "data": "14:26:59",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -233,7 +275,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 118900
+      "duration": 282100
     },
     {
       "seq": 0,
@@ -258,7 +300,7 @@
     },
     {
       "seq": 0,
-      "data": "14:14:17",
+      "data": "14:29:52",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -279,7 +321,7 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SHASTA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -335,10 +377,129 @@
     },
     {
       "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-09-08",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "14:30:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "MENDOCIN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ENDOCINO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 17 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 228800
+      "duration": 315050
     },
     {
       "seq": 0,
@@ -363,7 +524,7 @@
     },
     {
       "seq": 0,
-      "data": "14:18:17",
+      "data": "14:35:30",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -384,7 +545,7 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "KINGS   ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -446,5 +607,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-08T14-27-01Z"
+  "created_at": "2026-09-08T14-47-01Z"
 }
