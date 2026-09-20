@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-20T05-27-01Z",
+  "title": "power outages 2026-09-20T05-42-01Z",
   "author": "geojson parser",
-  "duration": 33,
+  "duration": 35,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:04:31",
+      "data": "05:20:50",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,28 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "SAN JOAQ",
+      "data": "SAN FRAN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN JOAQU",
+      "data": "AN FRANC",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "N JOAQUI",
+      "data": "N FRANCI",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": " JOAQUIN",
+      "data": " FRANCIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "FRANCISC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "RANCISCO",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -128,7 +142,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 319900
+      "duration": 177200
     },
     {
       "seq": 0,
@@ -153,7 +167,7 @@
     },
     {
       "seq": 0,
-      "data": "05:10:03",
+      "data": "05:24:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -174,14 +188,14 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "HUMBOLDT",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 4  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -236,5 +250,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-20T05-27-01Z"
+  "created_at": "2026-09-20T05-42-01Z"
 }
