@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-20T01-43-01Z",
+  "title": "power outages 2026-09-20T01-58-01Z",
   "author": "geojson parser",
-  "duration": 33,
+  "duration": 30,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "01:21:00",
+      "data": "00:40:22",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,14 @@
     },
     {
       "seq": 0,
-      "data": "SOLANO  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 121",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 216800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "01:24:48",
+      "data": "01:36:40",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,35 +153,14 @@
     },
     {
       "seq": 0,
-      "data": "SAN JOAQ",
+      "data": "SOLANO  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN JOAQU",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N JOAQUI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " JOAQUIN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 26 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -236,5 +215,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-20T01-43-01Z"
+  "created_at": "2026-09-20T01-58-01Z"
 }
