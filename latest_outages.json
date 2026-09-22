@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-22T03-12-01Z",
+  "title": "power outages 2026-09-22T03-27-01Z",
   "author": "geojson parser",
-  "duration": 48,
+  "duration": 52,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "02:50:44",
+      "data": "03:06:53",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,17 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -107,7 +114,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 216800
+      "duration": 245600
     },
     {
       "seq": 0,
@@ -132,7 +139,7 @@
     },
     {
       "seq": 0,
-      "data": "02:54:32",
+      "data": "03:11:10",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,7 +160,7 @@
     },
     {
       "seq": 0,
-      "data": "MARIN   ",
+      "data": "YUBA    ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -167,42 +174,56 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -212,7 +233,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 345800
+      "duration": 298450
     },
     {
       "seq": 0,
@@ -237,7 +258,7 @@
     },
     {
       "seq": 0,
-      "data": "03:00:29",
+      "data": "03:16:20",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -258,35 +279,42 @@
     },
     {
       "seq": 0,
-      "data": "SAN JOAQ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN JOAQU",
+      "data": "ONTRA CO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "N JOAQUI",
+      "data": "NTRA COS",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": " JOAQUIN",
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 22 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -341,5 +369,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-22T03-12-01Z"
+  "created_at": "2026-09-22T03-27-01Z"
 }
