@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-23T11-12-01Z",
+  "title": "power outages 2026-09-23T11-27-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 31,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "10:54:33",
+      "data": "11:08:29",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,21 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SAN MATE",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 6  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +114,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 410800
+      "duration": 485600
     },
     {
       "seq": 0,
@@ -132,7 +139,7 @@
     },
     {
       "seq": 0,
-      "data": "11:01:35",
+      "data": "11:16:46",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +160,14 @@
     },
     {
       "seq": 0,
-      "data": "SUTTER  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 37 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +222,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-23T11-12-01Z"
+  "created_at": "2026-09-23T11-27-01Z"
 }
