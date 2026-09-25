@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-25T05-44-02Z",
+  "title": "power outages 2026-09-25T05-57-02Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 89,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:32:26",
+      "data": "05:01:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,427 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "EL DORAD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 2  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 48 ",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-09-25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "05:15:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "EL DORAD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 4  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-09-25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "05:26:00",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "EL DORAD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "L DORADO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 2  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 600000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-09-25",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "05:36:56",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "SAN LUIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN LUIS ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "N LUIS O",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " LUIS OB",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "LUIS OBI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "UIS OBIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "IS OBISP",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 7,
+      "data": "S OBISPO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +520,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 40800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +545,7 @@
     },
     {
       "seq": 0,
-      "data": "05:33:18",
+      "data": "05:37:08",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +566,14 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 17 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +628,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-25T05-44-02Z"
+  "created_at": "2026-09-25T05-57-02Z"
 }
