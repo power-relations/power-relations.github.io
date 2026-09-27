@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-09-27T19-27-01Z",
+  "title": "power outages 2026-09-27T19-43-01Z",
   "author": "geojson parser",
-  "duration": 48,
+  "duration": 58,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "19:05:33",
+      "data": "19:24:20",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -55,6 +55,97 @@
     },
     {
       "seq": 0,
+      "data": "OUT: 2  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "THRD PAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "HRD PART",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "RD PARTY",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 55850
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-09-27",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "19:25:26",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLACER  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
       "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
@@ -107,7 +198,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 173800
+      "duration": 344800
     },
     {
       "seq": 0,
@@ -132,7 +223,7 @@
     },
     {
       "seq": 0,
-      "data": "19:08:38",
+      "data": "19:31:22",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,7 +244,7 @@
     },
     {
       "seq": 0,
-      "data": "SOLANO  ",
+      "data": "MARIN   ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -212,7 +303,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 559800
+      "duration": 174800
     },
     {
       "seq": 0,
@@ -237,7 +328,7 @@
     },
     {
       "seq": 0,
-      "data": "19:18:09",
+      "data": "19:34:28",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -258,31 +349,10 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CL",
+      "data": "MADERA  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ANTA CLA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTA CLAR",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TA CLARA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -341,5 +411,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-09-27T19-27-01Z"
+  "created_at": "2026-09-27T19-43-01Z"
 }
