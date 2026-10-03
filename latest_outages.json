@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-03T02-42-01Z",
+  "title": "power outages 2026-10-03T02-57-01Z",
   "author": "geojson parser",
-  "duration": 105,
+  "duration": 117,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "02:21:32",
+      "data": "02:38:57",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,42 +48,112 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "ALAMEDA ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 22 ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ONTRA CO",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTRA COS",
+      "data": "USE UNKN",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "TRA COST",
+      "data": "SE UNKNO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "RA COSTA",
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-10-03",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "02:39:08",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "HUMBOLDT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 12 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -135,7 +205,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 25550
+      "duration": 45600
     },
     {
       "seq": 0,
@@ -160,7 +230,7 @@
     },
     {
       "seq": 0,
-      "data": "02:22:10",
+      "data": "02:40:05",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -223,7 +293,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 91 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -275,7 +345,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 217200
+      "duration": 49200
     },
     {
       "seq": 0,
@@ -300,7 +370,7 @@
     },
     {
       "seq": 0,
-      "data": "02:26:00",
+      "data": "02:41:07",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -321,14 +391,14 @@
     },
     {
       "seq": 0,
-      "data": "MARIN   ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 15 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -380,7 +450,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 55800
+      "duration": 139800
     },
     {
       "seq": 0,
@@ -405,7 +475,7 @@
     },
     {
       "seq": 0,
-      "data": "02:27:07",
+      "data": "02:43:38",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -426,21 +496,42 @@
     },
     {
       "seq": 0,
-      "data": "SANTA CR",
+      "data": "SAN FRAN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ANTA CRU",
+      "data": "AN FRANC",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTA CRUZ",
+      "data": "N FRANCI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": " FRANCIS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "FRANCISC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": "RANCISCO",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -499,7 +590,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 420250
+      "duration": 109200
     },
     {
       "seq": 0,
@@ -524,7 +615,7 @@
     },
     {
       "seq": 0,
-      "data": "02:34:19",
+      "data": "02:45:40",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -545,38 +636,10 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "COLUSA  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "ONTRA CO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "NTRA COS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -632,7 +695,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 80550
+      "duration": 171800
     },
     {
       "seq": 0,
@@ -657,7 +720,7 @@
     },
     {
       "seq": 0,
-      "data": "02:35:52",
+      "data": "02:48:43",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -678,14 +741,35 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 125",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -740,5 +824,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-03T02-42-01Z"
+  "created_at": "2026-10-03T02-57-01Z"
 }
