@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-03T09-42-02Z",
+  "title": "power outages 2026-10-03T10-28-02Z",
   "author": "geojson parser",
-  "duration": 15,
+  "duration": 19,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "09:26:22",
+      "data": "10:06:36",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "NAPA    ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 93 ",
+      "data": "OUT: 14 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -110,5 +138,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-03T09-42-02Z"
+  "created_at": "2026-10-03T10-28-02Z"
 }
