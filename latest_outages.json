@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-04T03-27-02Z",
+  "title": "power outages 2026-10-04T03-44-01Z",
   "author": "geojson parser",
-  "duration": 50,
+  "duration": 62,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,119 @@
     },
     {
       "seq": 0,
-      "data": "03:05:13",
+      "data": "03:21:49",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COLUSA  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 2  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "EMERG RE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "MERG REP",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "ERG REPA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "RG REPAI",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "G REPAIR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " REPAIRS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 78800
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-10-04",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "03:23:19",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -55,7 +167,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 75 ",
+      "data": "OUT: 43 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +219,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 303800
+      "duration": 391800
     },
     {
       "seq": 0,
@@ -132,7 +244,7 @@
     },
     {
       "seq": 0,
-      "data": "03:10:28",
+      "data": "03:30:02",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,45 +265,10 @@
     },
     {
       "seq": 0,
-      "data": "SAN FRAN",
+      "data": "SOLANO  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN FRANC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N FRANCI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " FRANCIS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "FRANCISC",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "RANCISCO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -247,7 +324,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 409200
+      "duration": 46800
     },
     {
       "seq": 0,
@@ -272,7 +349,7 @@
     },
     {
       "seq": 0,
-      "data": "03:17:30",
+      "data": "03:31:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -293,14 +370,21 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "CALAVERA",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ALAVERAS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 293",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -355,5 +439,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-04T03-27-02Z"
+  "created_at": "2026-10-04T03-44-01Z"
 }
