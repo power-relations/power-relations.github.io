@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-12T02-16-02Z",
+  "title": "power outages 2026-10-12T02-29-01Z",
   "author": "geojson parser",
-  "duration": 13,
+  "duration": 15,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "01:54:54",
+      "data": "02:06:09",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,42 +48,56 @@
     },
     {
       "seq": 0,
-      "data": "TEHAMA  ",
+      "data": "HUMBOLDT",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 13 ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "CAUSE   ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 1200
-    },
-    {
-      "seq": 0,
-      "data": "THRD PAR",
+      "data": "CAUSE UN",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "HRD PART",
+      "data": "AUSE UNK",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "RD PARTY",
+      "data": "USE UNKN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "SE UNKNO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "E UNKNOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " UNKNOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -96,5 +110,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-12T02-16-02Z"
+  "created_at": "2026-10-12T02-29-01Z"
 }
