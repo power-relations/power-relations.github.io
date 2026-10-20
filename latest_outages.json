@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-20T08-12-02Z",
+  "title": "power outages 2026-10-20T08-32-02Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 33,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "05:23:15",
+      "data": "08:08:32",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "08:02:35",
+      "data": "08:19:36",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,14 +153,35 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 6  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +236,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-20T08-12-02Z"
+  "created_at": "2026-10-20T08-32-02Z"
 }
