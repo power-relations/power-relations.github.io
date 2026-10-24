@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-24T15-12-02Z",
+  "title": "power outages 2026-10-24T15-30-02Z",
   "author": "geojson parser",
-  "duration": 79,
+  "duration": 96,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "14:53:57",
+      "data": "15:03:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,14 +48,14 @@
     },
     {
       "seq": 0,
-      "data": "MARIN   ",
+      "data": "SHASTA  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 8  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -69,42 +69,49 @@
     },
     {
       "seq": 0,
-      "data": "EMERG RE",
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "MERG REP",
+      "data": "LNND SHU",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "ERG REPA",
+      "data": "NND SHUT",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "RG REPAI",
+      "data": "ND SHUTD",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "G REPAIR",
+      "data": "D SHUTDO",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " REPAIRS",
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -114,7 +121,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 65800
+      "duration": 117450
     },
     {
       "seq": 0,
@@ -139,7 +146,7 @@
     },
     {
       "seq": 0,
-      "data": "14:55:14",
+      "data": "15:05:09",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -160,59 +167,10 @@
     },
     {
       "seq": 0,
-      "data": "SAN LUIS",
+      "data": "SOLANO  ",
       "fade": 255,
       "transition": 1,
-      "duration": 700
-    },
-    {
-      "seq": 1,
-      "data": "AN LUIS ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N LUIS O",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " LUIS OB",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "LUIS OBI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "UIS OBIS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "IS OBISP",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 7,
-      "data": "S OBISPO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 700
+      "duration": 1200
     },
     {
       "seq": 0,
@@ -268,7 +226,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 2500
+      "duration": 99800
     },
     {
       "seq": 0,
@@ -293,7 +251,7 @@
     },
     {
       "seq": 0,
-      "data": "14:55:30",
+      "data": "15:07:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -314,14 +272,14 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "PLACER  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 24 ",
+      "data": "OUT: 10 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -335,17 +293,59 @@
     },
     {
       "seq": 0,
-      "data": "STORM   ",
+      "data": "PLNND SH",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 348400
+      "duration": 109450
     },
     {
       "seq": 0,
@@ -370,7 +370,7 @@
     },
     {
       "seq": 0,
-      "data": "15:01:28",
+      "data": "15:09:01",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -450,7 +450,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 98800
+      "duration": 340800
     },
     {
       "seq": 0,
@@ -475,7 +475,7 @@
     },
     {
       "seq": 0,
-      "data": "15:03:18",
+      "data": "15:14:53",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -496,7 +496,7 @@
     },
     {
       "seq": 0,
-      "data": "KERN    ",
+      "data": "AMADOR  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -504,6 +504,125 @@
     {
       "seq": 0,
       "data": "OUT: 1  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "PLNND SH",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "LNND SHU",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NND SHUT",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "ND SHUTD",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "D SHUTDO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 5,
+      "data": " SHUTDOW",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 6,
+      "data": "SHUTDOWN",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 69450
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-10-24",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "15:16:14",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "BUTTE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 6  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -558,5 +677,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-24T15-12-02Z"
+  "created_at": "2026-10-24T15-30-02Z"
 }
