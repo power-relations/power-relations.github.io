@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-25T16-29-02Z",
+  "title": "power outages 2026-10-25T16-46-01Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 34,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "16:13:00",
+      "data": "16:32:39",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,21 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "SAN MATE",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN MATEO",
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 2  ",
+      "data": "OUT: 1  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -111,6 +132,13 @@
     },
     {
       "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 66550
+    },
+    {
+      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -132,7 +160,7 @@
     },
     {
       "seq": 0,
-      "data": "16:13:11",
+      "data": "16:33:58",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,7 +181,7 @@
     },
     {
       "seq": 0,
-      "data": "SONOMA  ",
+      "data": "TULARE  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -215,5 +243,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-25T16-29-02Z"
+  "created_at": "2026-10-25T16-46-01Z"
 }
