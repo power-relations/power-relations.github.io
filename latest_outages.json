@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-28T10-29-01Z",
+  "title": "power outages 2026-10-28T10-57-01Z",
   "author": "geojson parser",
-  "duration": 15,
+  "duration": 19,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "10:11:34",
+      "data": "10:44:15",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,10 +48,31 @@
     },
     {
       "seq": 0,
-      "data": "MONTEREY",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -62,42 +83,49 @@
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "EMERG RE",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "MERG REP",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
+      "data": "ERG REPA",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 3,
-      "data": "SE UNKNO",
+      "data": "RG REPAI",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 4,
-      "data": "E UNKNOW",
+      "data": "G REPAIR",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 5,
-      "data": " UNKNOWN",
+      "data": " REPAIRS",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -110,5 +138,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-28T10-29-01Z"
+  "created_at": "2026-10-28T10-57-01Z"
 }
