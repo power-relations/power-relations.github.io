@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-10-29T06-47-01Z",
+  "title": "power outages 2026-10-29T06-57-02Z",
   "author": "geojson parser",
-  "duration": 29,
+  "duration": 30,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "02:43:12",
+      "data": "02:57:36",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -55,7 +55,7 @@
     },
     {
       "seq": 0,
-      "data": "OUT: 13 ",
+      "data": "OUT: 8  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -104,6 +104,13 @@
     },
     {
       "seq": 0,
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 600000
+    },
+    {
+      "seq": 0,
       "data": "DATE    ",
       "fade": 255,
       "transition": 1,
@@ -125,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "03:01:58",
+      "data": "06:47:26",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -146,14 +153,14 @@
     },
     {
       "seq": 0,
-      "data": "PLACER  ",
+      "data": "ALAMEDA ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 4  ",
+      "data": "OUT: 20 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -208,5 +215,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-10-29T06-47-01Z"
+  "created_at": "2026-10-29T06-57-02Z"
 }
