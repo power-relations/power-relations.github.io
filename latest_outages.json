@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-11-01T11-45-01Z",
+  "title": "power outages 2026-11-01T12-00-01Z",
   "author": "geojson parser",
-  "duration": 71,
+  "duration": 75,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "11:22:29",
+      "data": "10:28:00",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,42 +48,112 @@
     },
     {
       "seq": 0,
-      "data": "CONTRA C",
+      "data": "SOLANO  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 3  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "THRD PAR",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "ONTRA CO",
+      "data": "HRD PART",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "NTRA COS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "TRA COST",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "RA COSTA",
+      "data": "RD PARTY",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "        ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 600000
+    },
+    {
+      "seq": 0,
+      "data": "DATE    ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "26-11-01",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "TIME UTC",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "11:37:24",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "UTIL PGE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "COUNTY  ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "SAN MATE",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "AN MATEO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
+    },
+    {
+      "seq": 0,
+      "data": "OUT: 43 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -135,7 +205,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 4550
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -160,7 +230,7 @@
     },
     {
       "seq": 0,
-      "data": "11:22:46",
+      "data": "11:38:35",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -181,14 +251,14 @@
     },
     {
       "seq": 0,
-      "data": "ALAMEDA ",
+      "data": "MONTEREY",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 1  ",
+      "data": "OUT: 22 ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -240,7 +310,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 17800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -265,7 +335,7 @@
     },
     {
       "seq": 0,
-      "data": "11:23:15",
+      "data": "11:46:30",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -345,7 +415,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 85800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -370,7 +440,7 @@
     },
     {
       "seq": 0,
-      "data": "11:24:52",
+      "data": "11:50:36",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -391,56 +461,14 @@
     },
     {
       "seq": 0,
-      "data": "SAN LUIS",
+      "data": "EL DORAD",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AN LUIS ",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 2,
-      "data": "N LUIS O",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": " LUIS OB",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "LUIS OBI",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": "UIS OBIS",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 6,
-      "data": "IS OBISP",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 7,
-      "data": "S OBISPO",
+      "data": "L DORADO",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -502,5 +530,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-11-01T11-45-01Z"
+  "created_at": "2026-11-01T12-00-01Z"
 }
