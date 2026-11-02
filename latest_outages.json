@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-11-02T00-44-01Z",
+  "title": "power outages 2026-11-02T01-02-02Z",
   "author": "geojson parser",
-  "duration": 50,
+  "duration": 53,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "00:24:35",
+      "data": "00:41:39",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,7 +48,7 @@
     },
     {
       "seq": 0,
-      "data": "HUMBOLDT",
+      "data": "SUTTER  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -107,7 +107,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 280800
+      "duration": 600000
     },
     {
       "seq": 0,
@@ -132,7 +132,7 @@
     },
     {
       "seq": 0,
-      "data": "00:29:27",
+      "data": "00:51:52",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -247,7 +247,7 @@
       "data": "        ",
       "fade": 255,
       "transition": 1,
-      "duration": 446200
+      "duration": 17000
     },
     {
       "seq": 0,
@@ -272,7 +272,7 @@
     },
     {
       "seq": 0,
-      "data": "00:37:06",
+      "data": "00:52:20",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -293,10 +293,31 @@
     },
     {
       "seq": 0,
-      "data": "SOLANO  ",
+      "data": "SANTA CL",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ANTA CLA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTA CLAR",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TA CLARA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -355,5 +376,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-11-02T00-44-01Z"
+  "created_at": "2026-11-02T01-02-02Z"
 }
