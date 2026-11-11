@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "title": "power outages 2026-11-11T14-44-01Z",
+  "title": "power outages 2026-11-11T14-59-02Z",
   "author": "geojson parser",
-  "duration": 30,
+  "duration": 32,
   "lines": [
     {
       "seq": 0,
@@ -27,7 +27,7 @@
     },
     {
       "seq": 0,
-      "data": "14:22:06",
+      "data": "05:11:53",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -48,56 +48,42 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "SOLANO  ",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "OUT: 4  ",
+      "data": "OUT: 105",
       "fade": 255,
       "transition": 1,
       "duration": 1200
     },
     {
       "seq": 0,
-      "data": "CAUSE UN",
+      "data": "CAUSE   ",
+      "fade": 255,
+      "transition": 1,
+      "duration": 1200
+    },
+    {
+      "seq": 0,
+      "data": "THRD PAR",
       "fade": 255,
       "transition": 1,
       "duration": 700
     },
     {
       "seq": 1,
-      "data": "AUSE UNK",
+      "data": "HRD PART",
       "fade": 255,
       "transition": 1,
       "duration": 350
     },
     {
       "seq": 2,
-      "data": "USE UNKN",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 3,
-      "data": "SE UNKNO",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 4,
-      "data": "E UNKNOW",
-      "fade": 255,
-      "transition": 1,
-      "duration": 350
-    },
-    {
-      "seq": 5,
-      "data": " UNKNOWN",
+      "data": "RD PARTY",
       "fade": 255,
       "transition": 1,
       "duration": 700
@@ -132,7 +118,7 @@
     },
     {
       "seq": 0,
-      "data": "14:35:38",
+      "data": "14:42:53",
       "fade": 255,
       "transition": 1,
       "duration": 1200
@@ -153,10 +139,38 @@
     },
     {
       "seq": 0,
-      "data": "FRESNO  ",
+      "data": "CONTRA C",
       "fade": 255,
       "transition": 1,
-      "duration": 1200
+      "duration": 700
+    },
+    {
+      "seq": 1,
+      "data": "ONTRA CO",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 2,
+      "data": "NTRA COS",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 3,
+      "data": "TRA COST",
+      "fade": 255,
+      "transition": 1,
+      "duration": 350
+    },
+    {
+      "seq": 4,
+      "data": "RA COSTA",
+      "fade": 255,
+      "transition": 1,
+      "duration": 700
     },
     {
       "seq": 0,
@@ -215,5 +229,5 @@
       "duration": 100
     }
   ],
-  "created_at": "2026-11-11T14-44-01Z"
+  "created_at": "2026-11-11T14-59-02Z"
 }
